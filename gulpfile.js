@@ -1,6 +1,5 @@
 /*!
- * Themeix Gulp Package (https://themeix.com/)
- * Copyright 2016-2020 themeix team
+ * Copyright 2016-2022 
  * Licensed under MIT
  * Available Main Task Command : production, gulp, zip
  */
@@ -13,7 +12,7 @@
     =============================
     */
 
-    var File_Name = 'html-islam.zip';
+    var File_Name = 'html-nehal.zip';
     var CSS_Files = [
  
     './node_modules/magnific-popup/dist/magnific-popup.css',
