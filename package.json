@@ -28,10 +28,14 @@
 	"dependencies": {
 		"aos": "^2.3.4",
 		"jquery": "^3.6.0",
+		"jquery.counterup": "^2.1.0",
 		"jquery.easing": "^1.4.1",
-		"fitvids": "^2.1.1",
-		"tailwindcss": "^v3.0",
-		"infinite-scroll": "^4.0.1"
+		"magnific-popup": "^1.1.0",
+		"slick-carousel": "^1.6.37",
+		"countup.js": "^2.0.8",
+		"tailwindcss": "^2.2.7",
+		"infinite-scroll": "^4.0.1",
+		"waypoints": "^4.0.1"
 	},
 	"devDependencies": {
 		"@fullhuman/postcss-purgecss": "^4.1.3",
