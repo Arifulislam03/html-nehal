@@ -1566,6 +1566,10 @@ video {
 		display: flex;
 	}
 
+	.md\:h-96 {
+		height: 24rem;
+	}
+
 	.md\:min-h-screen {
 		min-height: 100vh;
 	}
