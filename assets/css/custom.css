@@ -960,13 +960,13 @@ Keyframes  Css
        
         
         border: none;
-        background-color: #f2bccc;
+        background-color: #000;
         
         text-indent: -9999px;
     }
     
     .testimonial-slider .slick-active button {
-        background-color: #e45a7e;
+        background-color: #ff5041;
     }
 
 }
