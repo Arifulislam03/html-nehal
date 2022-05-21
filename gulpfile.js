@@ -19,7 +19,6 @@
     './node_modules/slick-carousel/slick/slick.css',
     './node_modules/aos/dist/aos.css', 
     './assets/css/custom.css',
-    './assets/css/responsive.css',
     ];
     var JS_Files = [
     './node_modules/jquery/dist/jquery.min.js',
@@ -40,10 +39,8 @@
         './dist/production/assets/css/magnific-popup.css',
         './dist/production/assets/css/slick.css',
         './dist/production/assets/css/aos.css', 
-        './dist/production/assets/css/jquery.dataTables.min.css',
         './dist/production/assets/css/tailwind.min.css',  
         './dist/production/assets/css/custom.css',
-        './dist/production/assets/css/responsive.css',
     ]; 
     var Production_JS_Files = [ 
         './dist/production/assets/js/jquery.min.js',
