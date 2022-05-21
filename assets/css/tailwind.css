@@ -1621,6 +1621,10 @@ video {
 	.md\:text-3xl {
 		font-size: 2rem;
 	}
+
+	.md\:text-2xl {
+		font-size: 1.5rem;
+	}
 }
 
 @media (min-width: 1024px) {
