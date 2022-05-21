@@ -78,6 +78,17 @@ JS Table of Conttent
 
 
 
+  /*
+  ------------------------  
+ 11. Counterup
+  --------------------------
+  */
+  $('.counter-numbers').counterUp({
+    delay: 10,
+    time: 1000
+  });
+  
+
 
     
      /*
@@ -266,11 +277,6 @@ JS Table of Conttent
 
 
 
-
-
-
-
-    
 
   
   }(jQuery));

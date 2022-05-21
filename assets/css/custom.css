@@ -288,7 +288,7 @@ Keyframes  Css
 .entry-content ul,
 .entry-content ol {
     margin-bottom: 32px;
-    font-family: 'Quattrocento', serif;
+    font-family: 'Jost', sans-serif;
 }
 
 .entry-content h1 {
@@ -592,7 +592,22 @@ Keyframes  Css
 
 
 
-
+@media only screen and (min-width : 1024px) {
+    .active:before {
+        position: absolute;
+        content: "";
+        background: #ff5041;
+        width: 8px;
+        height: 8px;
+        /* bottom: 0; */
+        margin: auto;
+        right: 0;
+        left: 0;
+        border-radius: 10px;
+        top: 10px;
+    }
+    }
+    
 
 @keyframes moveInleft {
     0% {
